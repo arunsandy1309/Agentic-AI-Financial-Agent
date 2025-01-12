@@ -48,6 +48,9 @@ This project implements a multi-model AI system that combines two specialized ag
 - The Multi-Model Agent determines whether the query relates to web search, financial analysis, or both, and uses the appropriate tools and models to generate a response.
 - Results are streamed and printed in markdown format for better readability.
 
+![image](https://github.com/user-attachments/assets/4c2f5517-88ae-42da-aff1-1418f759ac31)
+
+
 ---
 
 ## Prerequisites
